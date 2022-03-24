@@ -1,4 +1,4 @@
-baseurl: http://ducvulqd.github.io/blog/
+baseurl: http://ducvulqd.github.io/blog
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
