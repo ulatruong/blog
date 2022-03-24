@@ -1,8 +1,8 @@
-baseurl: http://ducvulqd.github.io/blog
+baseurl: https://example.com
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
-title: Ula Truong
+title: Ula Truon
 
 languages:
     en:
