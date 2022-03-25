@@ -1,4 +1,4 @@
-baseurl: https://example.com
+baseurl: https://ulatruong.github.io/blog/
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
@@ -54,7 +54,7 @@ params:
 
     sidebar:
         emoji: 🍥
-        subtitle: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        subtitle: I'm Ula Truong. Nice to meet you!!!
         avatar:
             enabled: true
             local: true
